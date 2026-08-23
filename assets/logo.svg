@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-label="TechShelf">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7C6CF5"/>
+      <stop offset="100%" stop-color="#5A46E0"/>
+    </linearGradient>
+    <linearGradient id="layerTop" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#E4E0FF"/>
+    </linearGradient>
+    <linearGradient id="layerMid" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D9D2FF"/>
+      <stop offset="100%" stop-color="#B7ACFA"/>
+    </linearGradient>
+    <linearGradient id="layerBot" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#B7ACFA"/>
+      <stop offset="100%" stop-color="#8E7DF2"/>
+    </linearGradient>
+  </defs>
+  <rect width="1024" height="1024" rx="228" fill="url(#bg)"/>
+  <polygon points="512,684 800,556 512,428 224,556" fill="url(#layerBot)"/>
+  <polygon points="512,554 800,426 512,298 224,426" fill="url(#layerMid)"/>
+  <polygon points="512,424 800,296 512,168 224,296" fill="url(#layerTop)"/>
+</svg>
