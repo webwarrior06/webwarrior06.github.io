@@ -84,6 +84,7 @@ a:hover {
   width: 28px;
   height: 28px;
   border-radius: 7px;
+  background: #fff;
 }
 
 .nav-links {
@@ -293,6 +294,7 @@ h1 em {
   height: 56px;
   border-radius: 14px;
   flex-shrink: 0;
+  background: #fff;
 }
 
 .app-tile strong {
